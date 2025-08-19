@@ -5,7 +5,7 @@
 ---
 
 ## 👋 About Us
-We’re a 2-person team creating fresh ideas for Minecraft servers. Founded in {not_yet}, we turn our ideas into real, playable features.
+We’re a 2-person team creating fresh ideas for Minecraft servers. Founded on August 20, 2025, we turn our ideas into real, playable features.
 
 Our mission? To create **cool, high-quality, and customizable plugins** that transform gameplay while keeping things lightweight and server-friendly. 🚀
 
