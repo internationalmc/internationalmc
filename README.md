@@ -49,4 +49,4 @@ Our mission? To create **cool, high-quality, and customizable plugins** that tra
 
 ---
 
-2025 © InternationalMC | [Licenses](https://github.com/internationalmc/Licenses) | [Github](internationalmc.pages.dev/terms) | [Discord](https://internationalmc.pages.dev/discord)
+2025 © InternationalMC | [Licenses](https://github.com/internationalmc/Licenses) | [Github](internationalmc.pages.dev/terms) | [Discord](https://internationalmc.pages.dev/discord) | [Ko-Fi](https://ko-fi.com/internationalmc)
