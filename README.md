@@ -1,4 +1,4 @@
-# 🌍 InternationalMC (Beta)
+# 🌍 InternationalMC
 
 *Minecraft Plugin Development Team*
 
