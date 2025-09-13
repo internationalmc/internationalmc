@@ -10,18 +10,13 @@ We’re team creating fresh ideas for Minecraft servers. Founded on August 20, 2
 Our mission? To create **cool, high-quality, and customizable plugins** that transform gameplay while keeping things lightweight and server-friendly. 🚀
 
 - 🛠 Focus: Minecraft plugins (Spigot, Paper, Purpur, etc.)
-- 🎯 Goal: To make something new and original
-
----
-
-## 🔨 Current Projects
-- **Server Plugins** – Social, optimizing 🛡️  
+- 🎯 Goal: Make something new and original
 
 ---
 
 ## 🌟 Featured Repositories
-[![Plugin Framework](https://github-readme-stats.vercel.app/api/pin/?username=InternationalMC&repo=Valentines&theme=tokyonight)](https://github.com/InternationalMC/Valentines)  
-[![Gameplay Enhancer](https://github-readme-stats.vercel.app/api/pin/?username=InternationalMC&repo=Reviews&theme=tokyonight)](https://github.com/InternationalMC/Reviews)
+[![Stat1](https://github-readme-stats.vercel.app/api/pin/?username=InternationalMC&repo=Valentines&theme=tokyonight)](https://github.com/InternationalMC/Valentines)  
+[![Stat2](https://github-readme-stats.vercel.app/api/pin/?username=InternationalMC&repo=Reviews&theme=tokyonight)](https://github.com/InternationalMC/Reviews)
 
 ---
 
@@ -44,7 +39,6 @@ Our mission? To create **cool, high-quality, and customizable plugins** that tra
 
 ## 📫 Connect With Us
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://internationalmc.pages.dev/discord)
-[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=fff)](https://bsky.app/profile/internationalmc.bsky.social)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:internationalmc.dev@gmail.com)
 
 ---
