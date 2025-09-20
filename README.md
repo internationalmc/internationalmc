@@ -1,4 +1,4 @@
-# 🌍 InternationalMC
+# InternationalMC
 
 *In quick...*
 
